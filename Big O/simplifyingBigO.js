@@ -9,6 +9,10 @@
 
 //Rule 2: Remove Constants.
 
+//Big-O notation doesn't care about constants because big-O notation only describes the long-term growth rate of functions, rather than their absolute magnitudes. Multiplying a function by a constant only influences its growth rate by a constant amount, so linear functions still grow linearly, 
+//logarithmic functions still grow logarithmically, exponential functions still grow exponentially, etc. 
+//Since these categories aren't affected by constants, it doesn't matter that we drop the constants.
+
 //Rule 3: Different terms for inputs.
 
 //Rule 4: Drp non dominants 
