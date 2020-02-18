@@ -31,3 +31,21 @@ function compressBoxesTwice(boxes, boxes2) {
 // the big o for this function after adding a second param, will be O(boxes + boxes2)
 
 //Rule 4: Drp non dominants 
+
+function printAllNumbersThenAllPairSums(numbers) {
+    console.log('these are the numbers: ');
+    numbers.forEach(function(number) {
+        console.log(number);
+    })
+
+    console.log('and these are their sums: ');
+    numbers.forEach(function(firstNumber) {
+        numbers.forEach(function(secondNumber) {
+            console.log(firstNumber + secondNumber);
+        })
+    })
+}
+
+printAllNumbersThenAllPairSums([1, 2, 3, 4, 5])
+
+//the big o here will be O(n^2)
