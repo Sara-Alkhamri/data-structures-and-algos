@@ -15,4 +15,19 @@
 
 //Rule 3: Different terms for inputs.
 
+//Below fucntion loops twice over the boxes array.
+
+//The Big O of this function will be O(2n) but because we know to drop the constants, it will be O(n)
+function compressBoxesTwice(boxes, boxes2) {
+    boxes.forEach(function(boxes) { //loops over the first input
+        console.log(boxes)
+    })
+
+    boxes2.forEach(function(boxes) { //loops over the second input
+        console.log(boxes)
+    })
+}
+
+// the big o for this function after adding a second param, will be O(boxes + boxes2)
+
 //Rule 4: Drp non dominants 
