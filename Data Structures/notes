@@ -31,3 +31,16 @@ Data Structures in Different Languages:
 - In JS we have integrs, strings, booleans etc.
 - Each Language has Data Structures to organize these data types.
 - In JS we have Arrays and Objects.
+
+Lesson 4: 
+
+Operations on Data Structures:
+
+Operations that could be performed on a Data Structure:
+
+- Insertion: Add a new data item in a given collection of items.
+- Deletion: Remove data.
+- Traversal: Access each Data item exactly once so that it could be proccessed.
+- Searching: Access the location of a data item if it exsits in a data collection.
+- Sorting: organizing data.
+- Access (Most important): How to access data in our Compute.
