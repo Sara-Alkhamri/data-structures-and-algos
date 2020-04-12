@@ -1,3 +1,5 @@
+Lesson 1:
+
 What is a Data Structure?
 -  A Data Structure is a collection of values.
 - The values can have relationships among them and functions applied to them.
@@ -10,3 +12,22 @@ What is a Data Structure?
 Two Parts of Data Structures:
 1. How to build one.
 2. How to use it.
+
+
+Lesson 2:
+
+How Computers Store Data:
+- Each Data type has a number of bits associated with it and that needs to get stored in the system.
+- The system then allocates that storage, the the CPU (Computer) reads from that storage.
+- So, Data Structures is an arraingment of data, you can define the way you enteract with it, and how it is arrainged in RAM (Random Access Memory).
+- Some Data in RAM is organized next to each other, some are apart.
+- Our goal is to minimize the operation that we need to do for the CPU to get the information, for the CPU to write information.
+
+Lesson 3: 
+
+Data Structures in Different Languages:
+
+- Each Language has its own Data Types.
+- In JS we have integrs, strings, booleans etc.
+- Each Language has Data Structures to organize these data types.
+- In JS we have Arrays and Objects.
