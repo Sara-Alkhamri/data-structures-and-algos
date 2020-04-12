@@ -1,0 +1,12 @@
+What is a Data Structure?
+-  A Data Structure is a collection of values.
+- The values can have relationships among them and functions applied to them.
+- Each Data Structure is good and specilized for its own thing.
+- The purpose is to organize data so we can go back and retrieve that data easly.
+- We can add to a data structure and take from a data structure.
+- Based on different scenarios, data needs to be stored in a specific format.
+
+
+Two Parts of Data Structures:
+1. How to build one.
+2. How to use it.
