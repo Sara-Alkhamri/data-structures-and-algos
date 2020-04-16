@@ -1,4 +1,7 @@
-
+//when to use arrays:
+//Fast Lookups
+//Adding things to end of an array or taking things out of the end of an array i.e push/pop
+//ordered
 
 function mergeSortedArrays(array1, array2) {
     const mergedArray = [];
